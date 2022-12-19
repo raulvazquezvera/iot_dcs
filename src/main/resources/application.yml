@@ -1,0 +1,5 @@
+server:
+  port: 8086
+wi:
+  url: http://localhost:8085
+  configuredevice: /configureDevice
